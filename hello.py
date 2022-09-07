@@ -1,2 +1,2 @@
-print("hello")
-print("how are you")
+a = 10
+print(str(a)+"as")
